@@ -20,4 +20,4 @@
 
 [Иерархия папок](https://drive.google.com/file/d/1FYjg_eWSHIwAIedirHSTJBUyuZY_AW_a/view?usp=sharing)
 
-[Иерархия классов](https://drive.google.com/file/d/1j-KJD05uc0Kf_QypQGiYR93TrDp1rpdU/view?usp=sharing)
+[Иерархия классов](https://drive.google.com/file/d/1b3Lzvp_WnOPxb6feHpMbIRHl8S_qwAlg/view?usp=share_link)
